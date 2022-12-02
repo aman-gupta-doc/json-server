@@ -1,11 +1,11 @@
 {
-  PB_UID : "abcd",
-  FN : "test",
-  LN : "test",
-  MN : "test",
-  CN : "IN",
-  DP : {
-    type:"URL",
-    data:"test.com"
+  "PB_UID" : "abcd",
+  "FN" : "test",
+  "LN" : "test",
+  "MN" : "test",
+  "CN" : "IN",
+  "DP" : {
+    "type":"URL",
+    "data":"test.com"
   }
 }
